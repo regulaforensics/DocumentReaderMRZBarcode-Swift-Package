@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MRZBarcodeStage",
-            url: "https://pods.regulaforensics.com/Stage/MRZBarcodeStage/9.9.20823/DocumentReaderCoreStage_barcodemrz_9.9.20823.zip",
-            checksum: "938ba60a9b222e5b0c8c748fa64c340fdcf7f2571dd21741731053657fed099b"),
+            url: "https://pods.regulaforensics.com/Stage/MRZBarcodeStage/9.9.20842/DocumentReaderCoreStage_barcodemrz_9.9.20842.zip",
+            checksum: "cf00af3606131a1c5e96c3f7dd4d723ed54d8c9dfb7f9653fdcfb34f9e860567"),
     ]
 )
